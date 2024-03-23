@@ -27,7 +27,7 @@ You can use two types of lists. Ordered:
 2. The second element
 3. The last element
 
-You can use unordered list:
+You can also use unordered list:
 
 ```markdown
 * The first element
