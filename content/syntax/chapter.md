@@ -64,7 +64,7 @@ This time I used image as reference to not confuse parser with nested markdown s
 
 ## Images
 
-Currently, only `jpg` images are supported as they are not problematic during the rendering process. Please move all images to the `images` directory in the chapter directory. If you would use the following code in `introduction` chapter:
+Currently, only `jpg` images are supported as they are not problematic during the rendering process (and they are rendered fast). Please move all images to the `images` directory in the chapter directory. If you would use the following code in `introduction` chapter:
 
 ```markdown
 ![](./images/picture.jpg)
