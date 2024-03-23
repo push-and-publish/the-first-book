@@ -37,6 +37,8 @@ You can also use unordered list:
 * The last element
 ```
 
+The above code will result in:
+
 * The first element
 * The second element
 * The last element
