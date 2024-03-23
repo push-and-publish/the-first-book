@@ -1,0 +1,6 @@
+name: 'The First Book'
+dedication: "With dedication to everyone\nwho ever thought about writing a book"
+cover_image: 'cover.jpg'
+chapters:
+  - name: Introduction
+    slug: introduction
