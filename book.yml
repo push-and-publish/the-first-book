@@ -4,3 +4,5 @@ cover_image: 'cover.jpg'
 chapters:
   - name: Introduction
     slug: introduction
+  - name: Configuration
+    slug: configuration
