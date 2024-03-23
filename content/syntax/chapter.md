@@ -59,3 +59,15 @@ class Person
   end
 end
 ```
+
+This time I used image as reference to not confuse parser with nested markdown syntax. Instead of `ruby` you can use any other language or technology like `javascript`, `html`, `css`, `yaml`, `sql`, etc.
+
+## Images
+
+Currently, only `jpg` images are supported as they are not problematic during the rendering process. Please move all images to the `images` directory in the chapter directory. If you would use the following code in `introduction` chapter:
+
+```markdown
+![](./images/picture.jpg)
+```
+
+The parser would look for `content/introduction/images/picture.jpg` file.
