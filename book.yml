@@ -6,3 +6,7 @@ chapters:
     slug: introduction
   - name: Configuration
     slug: configuration
+  - name: Syntax
+    slug: syntax
+  - name: Cover
+    slug: cover
