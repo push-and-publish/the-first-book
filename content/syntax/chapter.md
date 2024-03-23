@@ -71,3 +71,13 @@ Currently, only `jpg` images are supported as they are not problematic during th
 ```
 
 The parser would look for `content/introduction/images/picture.jpg` file.
+
+## Links
+
+You can use standard syntax for links:
+
+```markdown
+[link name](http://address.com)
+```
+
+When you release the book (merge the code to the main branch), links are automatically replaced to the following format: `https://pushand.pub/r/{unique-token}` - this is the proxy URL that will redirect immediately to your link. In future updates for the platform, it will be possible to edit this link so even if the original link is no longer accessible, your past readers won't experience issues.
