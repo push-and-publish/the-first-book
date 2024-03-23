@@ -8,3 +8,5 @@ chapters:
     slug: configuration
   - name: Syntax
     slug: syntax
+  - name: Cover
+    slug: cover
