@@ -42,3 +42,20 @@ The above code will result in:
 * The first element
 * The second element
 * The last element
+
+## Formatting code
+
+You can format the snippet of code:
+
+![](./images/ruby.jpg)
+
+The above code will result in the following text:
+
+```ruby
+class Person
+  def initialize(first_name, last_name)
+    @first_name = first_name
+    @last_name = last_name
+  end
+end
+```
