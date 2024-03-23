@@ -27,3 +27,5 @@ chapters:
   - name: Afterword
     slug: afterword
 ```
+
+Please don't use any special words as the `slug` value. Just use the name you would typically use for a directory.
