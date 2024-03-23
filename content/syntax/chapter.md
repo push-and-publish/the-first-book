@@ -23,6 +23,8 @@ You can use two types of lists. Ordered:
 3. The last element
 ```
 
+The above code will result in:
+
 1. The first element
 2. The second element
 3. The last element
