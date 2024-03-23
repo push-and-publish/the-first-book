@@ -10,3 +10,5 @@ Chapter content is in Markdown format but currently, not all elements from Markd
 
 This is simple paragraph with some additional formatting like **bold** or `code` text.
 ```
+
+Here is the formatting of the above paragrahp: This is simple paragraph with some additional formatting like **bold** or `code` text.
