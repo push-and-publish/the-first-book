@@ -12,3 +12,13 @@ This is simple paragraph with some additional formatting like **bold** or `code`
 ```
 
 Here is the formatting of the above paragrahp: This is simple paragraph with some additional formatting like **bold** or `code` text.
+
+## Formatting lists
+
+You can use two types of lists. Ordered:
+
+```markdown
+1. The first element
+2. The second element
+3. The last element
+```
