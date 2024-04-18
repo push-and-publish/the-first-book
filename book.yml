@@ -1,6 +1,8 @@
 name: 'The First Book'
 dedication: "With dedication to everyone\nwho ever thought about writing a book"
 cover_image: 'cover.jpg'
+epub_cover_image: 'epub_cover.jpg'
+author: "Paweł Dąbrowski"
 chapters:
   - name: Introduction
     slug: introduction
